@@ -106,6 +106,14 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 <hr>
 
+## 📚 Reading
+
+| Current Book                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://www.barnesandnoble.com/w/auctioneer-joan-samson/1101061519"><img src="https://4.bp.blogspot.com/-zh6DO1OatdY/UXfQz_ZdGFI/AAAAAAAAJi4/QTy9Fzp5ZyI/s1600/Auctioneer,+The+-+Joan+Samson+-+1975.JPG" width="128" height="128"> The Auctioneer</a> |
+
+<hr>
+
 <div align="center">
 <p>Have a good day!</p>
 <p>Thanks for dropping by! Feel free to connect for collaborations or just to chat about tech and innovation. 🚀</p>
