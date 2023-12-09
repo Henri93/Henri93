@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi there! I'm Henry Garant</h3>
 
-Welcome to my GitHub profile! I'm a Fullstack Software Engineer [@Lutron](https://www.linkedin.com/company/lutron-electronics/) passionate about crafting innovative solutions with obsessive customer focus. My journey so far has been shaped by a blend of academic excellence and real-world experience getting my hands dirty.
+Welcome to my GitHub profile! I'm a Full Stack Software Engineer [@Lutron](https://www.linkedin.com/company/lutron-electronics/) passionate about crafting innovative solutions with obsessive customer focus. My journey so far has been shaped by a blend of academic excellence and 3+ years of real-world experience.
 
 <hr>
 
