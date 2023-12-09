@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a Full Stack Software Engineer [@Lutron](https
 
 - 😄 My Pronouns: He/Him   
 
-- 💬 Ask me about: Augmented Reality, Generative AI, The Singularity, etc..
+- 💬 Ask me about: Augmented Reality, Generative AI, The Singularity, Horror Novels, Ice Hockey, etc..
 
 - 📫 How to reach me:  [henryRgarant@gmail.com](mailto:henryRgarant@gmail.com)
 
-- ⚡ Fun fact: I've got a fully flourishing hydroponic garden growing in my downtown Philly apartment
+- 🌱 Fun fact: I've got a fully flourishing hydroponic garden growing in my downtown Philly apartment
 
 <hr>
 
