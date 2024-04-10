@@ -42,7 +42,6 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 ## 💼 Where You Can Find Me Today
 
 ### Lutron Electronics | Design and Development
-- Guiding product vision for groundbreaking projects in Computer Vision, AR, and Generative AI.
 - Advocating a fail-fast approach to drive innovation and redirect resources toward promising initiatives.
 - Orchestrating successful internal Hackathons, fostering a culture of creativity and collaboration.
 - Most recently learning about Backend Cloud development in Go and Python.
@@ -61,7 +60,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 ### Nullspace LLC | [Website](https://www.null-space.xyz/)
 *June 2023*
-- Philadelphia-based company that specializes in creating customized, boutique, and fun Augmented Reality (AR) experiences.
+- Philadelphia-based company that specializes(as of last pivot) in making timelapse photography effortless to capture through a cloud service.
 
 ### Capture The NFT | [Website](https://www.capturethenft.live) | [GitHub Repo](https://github.com/Henri93/Capture-The-NFT)
 *December 2021*
