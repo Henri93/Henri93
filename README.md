@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Full Stack Software Engineer [@Meta](https:/
 
 - 💬 Ask me about: Mixed/Augmented Reality, Generative AI, The Singularity, Horror Novels, Ice Hockey, etc..
 
-- 🌱 Fun fact: I've made a [fully flourishing hydroponic garden](garden.HEIC) growing in my downtown Philly apartment
+- 🌱 Fun fact: I've made a [fully flourishing hydroponic garden](garden.jpg) growing in my downtown Philly apartment
 
 <hr>
 
