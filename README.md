@@ -37,7 +37,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 <hr>
 
-## 🚀 Personal Projects
+## 🚀 Personal Projects // Fun Things
 
 ### Nullspace LLC | [Website](https://www.null-space.xyz/)
 - Philadelphia-based software company that's trying many things until something gets strong product-market fit.
@@ -47,6 +47,11 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 ### Capture The NFT | [Website](https://www.capturethenft.live) | [GitHub Repo](https://github.com/Henri93/Capture-The-NFT)
 - Developed a Polygon Network web3 app for a virtual capture the flag game using NFTs.
+
+### Bar Bathrooms | [Album](https://poly.cam/album/92C0269D-B961-4698-AC5A-763E7C581092)
+- Documenting the amazing graffiti in bar bathrooms around the world.
+
+<iframe src="https://poly.cam/capture/A594B5B4-D19E-4290-B636-D5C7A3A12FD5/embed" title="Polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
 
 <hr>
 
