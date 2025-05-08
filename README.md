@@ -1,19 +1,17 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi there! I'm Henry Garant</h3>
 
-Welcome to my GitHub profile! I'm a Full Stack Software Engineer [@Lutron](https://www.linkedin.com/company/lutron-electronics/) passionate about crafting innovative solutions with obsessive customer focus. My journey so far has been shaped by a blend of academic excellence and 3+ years of real-world experience.
-
+Welcome to my GitHub profile! I'm a Full Stack Software Engineer [@Meta](https://www.linkedin.com/company/meta/)-[Reality Labs](https://www.meta.com/emerging-tech) passionate about crafting innovative, inspiring, and awesome products. I'm currently working on the [Horizon OS](https://www.meta.com/blog/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/?srsltid=AfmBOorj_btiAL2yc9HSycFlSRBkOQZyHqB6t7OehSi0CwsCSj8JfzY2) for the Meta Quest devices.
 <hr>
 
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
 
 - 😄 My Pronouns: He/Him   
 
-- 💬 Ask me about: Augmented Reality, Generative AI, The Singularity, Horror Novels, Ice Hockey, etc..
+- 💬 Ask me about: Mixed/Augmented Reality, Generative AI, The Singularity, Horror Novels, Ice Hockey, etc..
 
-- 📫 How to reach me:  [henryRgarant@gmail.com](mailto:henryRgarant@gmail.com)
-
-- 🌱 Fun fact: I've got a fully flourishing hydroponic garden growing in my downtown Philly apartment
+- 🌱 Fun fact: I've made a fully flourishing hydroponic garden growing in my downtown Philly apartment
 
 <hr>
 
@@ -39,12 +37,16 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 <hr>
 
-## 💼 Where You Can Find Me Today
+## 🚀 Personal Projects
 
-### Lutron Electronics | Design and Development
-- Advocating a fail-fast approach to drive innovation and redirect resources toward promising initiatives.
-- Orchestrating successful internal Hackathons, fostering a culture of creativity and collaboration.
-- Most recently learning about Backend Cloud development in Go and Python.
+### Nullspace LLC | [Website](https://www.null-space.xyz/)
+- Philadelphia-based software company that's trying many things until something gets strong product-market fit.
+
+### Wine Party | [App](https://apps.apple.com/us/app/wine-party/id6744271442)
+- An app for a social wine tasting experience.
+
+### Capture The NFT | [Website](https://www.capturethenft.live) | [GitHub Repo](https://github.com/Henri93/Capture-The-NFT)
+- Developed a Polygon Network web3 app for a virtual capture the flag game using NFTs.
 
 <hr>
 
@@ -52,19 +54,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 **University of Pennsylvania | Computer Science, BSE**  
 *May 2020*  
-- Mayor’s Scholar of Philadelphia
-
-<hr>
-
-## 🚀 Personal Projects
-
-### Nullspace LLC | [Website](https://www.null-space.xyz/)
-*June 2023*
-- Philadelphia-based company that specializes(as of last pivot) in making timelapse photography effortless to capture through a cloud service.
-
-### Capture The NFT | [Website](https://www.capturethenft.live) | [GitHub Repo](https://github.com/Henri93/Capture-The-NFT)
-*December 2021*
-- Developed a Polygon Network web3 app for a virtual capture the flag game using NFTs.
+- [Mayor’s Scholar of Philadelphia](https://srfs.upenn.edu/financial-aid/mayors-scholarship)
 
 <hr>
 
@@ -72,6 +62,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 - [LinkedIn](https://www.linkedin.com/in/henry-garant/)
 - Email: [henryRgarant@gmail.com](mailto:henryRgarant@gmail.com)
+- Cell: (267)-670-0999
 - [GitHub](https://github.com/Henri93)
 
 <hr>
@@ -90,15 +81,15 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://open.spotify.com/track/5cLFhtbjth4y4RA8fsXfRZ?si=3efdadc47f62413c"><img src="https://i.scdn.co/image/ab67616d0000485147265bcb7ddbd68b083787b1" width="64" height="64"></a> My Heart Has Teeth - deadmau5, Skylar Grey</td>
+      <td><a href="https://open.spotify.com/track/6bb0cjkeG55hXl7pkRu5mn?si=6c6dc97c2260433f"><img src="https://i.scdn.co/image/ab67616d0000b27327e49a37460c4445053eeb4f" width="64" height="64"> Anxiety:Clarity (feat. Paul Williams) - Portugal. The Man</a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c?si=73155be32b92459d"><img src="https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937" width="64" height="64"></a> Giorgio by Moroder - Daft Punk</td>
+      <td><a href="https://open.spotify.com/track/1QyJXTWxF7iIfOfh84fH0G?si=cd83f4d7d17e4da8"><img src="https://i.scdn.co/image/ab67616d0000b2731fd336bd388a632180e721d8" width="64" height="64">Nothing Changes - MGMT</a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/0PRYPI0VIlaphQDlDNjI10?si=a81263f5334241a9"><img src="https://i.scdn.co/image/ab67616d000048513c1f83cb42942b38c97058b8" width="64" height="64"></a> Parallel Lines - Enzo Bennet Remix - ATTLAS, Enzo Bennet</td>
+      <td><a href="https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea?si=b863b6919c44409f"><img src="https://i.scdn.co/image/ab67616d0000b2730b616ea7eb573b24774080c9" width="64" height="64"> Concorde - Miss Monique</a></td>
     </tr>
   </tbody>
 </table>
@@ -109,7 +100,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 | Current Book                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://www.barnesandnoble.com/w/auctioneer-joan-samson/1101061519"><img src="https://4.bp.blogspot.com/-zh6DO1OatdY/UXfQz_ZdGFI/AAAAAAAAJi4/QTy9Fzp5ZyI/s1600/Auctioneer,+The+-+Joan+Samson+-+1975.JPG" width="128" height="128"> The Auctioneer</a> |
+| <a href="https://www.goodreads.com/book/show/8151.Laughter_in_the_Dark"><img src="https://m.media-amazon.com/images/I/61IIDFhSAIL._SL1200_.jpg" width="128" height="200"> Laughter in the Dark</a> |
 
 <hr>
 
