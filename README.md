@@ -2,14 +2,9 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi there! I'm Henry Garant</h3>
 
 Welcome to my GitHub profile! I'm a Full Stack Software Engineer [@Meta](https://www.linkedin.com/company/meta/)-[Reality Labs](https://www.meta.com/emerging-tech) passionate about crafting innovative, inspiring, and awesome products. I'm currently working on the [Horizon OS](https://www.meta.com/blog/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/?srsltid=AfmBOorj_btiAL2yc9HSycFlSRBkOQZyHqB6t7OehSi0CwsCSj8JfzY2) for the Meta Quest devices.
-<hr>
+<hr> 
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-
-- 😄 My Pronouns: He/Him   
-
-- 💬 Ask me about: Mixed/Augmented Reality, Generative AI, The Singularity, Horror Novels, Ice Hockey, etc..
+- 💬 Ask me about: Mixed/Augmented Reality, The Singularity, Horror Novels, Ice Hockey, Pottery, Hydroponics, etc..
 
 - 🌱 Fun fact: I've made a [fully flourishing hydroponic garden](garden.jpg) growing in my downtown Philly apartment
 
@@ -94,7 +89,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea?si=b863b6919c44409f"><img src="https://i.scdn.co/image/ab67616d0000b2730b616ea7eb573b24774080c9" width="64" height="64"> Concorde - Miss Monique</a></td>
+      <td><a href="https://open.spotify.com/track/66kGihUqR3kRZLxtFBSobF?si=62b8ab4789984bdd"><img src="https://i.scdn.co/image/ab67616d0000b2732b4d37718d6d0c5a04dc17b0" width="64" height="64"> Sinnerman - Nina Simone</a></td>
     </tr>
   </tbody>
 </table>
@@ -105,9 +100,11 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 | Current Book                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://www.goodreads.com/book/show/8151.Laughter_in_the_Dark"><img src="https://m.media-amazon.com/images/I/61IIDFhSAIL._SL1200_.jpg" width="128" height="200"> Laughter in the Dark</a> |
+| <a href="https://www.goodreads.com/book/show/8913370-fingersmith"><img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1545241494i/8913370.jpg" width="128" height="200"></a> |
 
 <hr>
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 <div align="center">
 <p>Have a good day!</p>
