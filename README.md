@@ -98,9 +98,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 ## 📚 Reading
 
-| Current Book                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://www.goodreads.com/book/show/8913370-fingersmith"><img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1545241494i/8913370.jpg" width="128" height="200"></a> |
+![Reading Progress](https://n3bdyqfkt5oihc43ohqbqy2thy0vpckb.lambda-url.us-east-1.on.aws/card/hgarant?limit=10)
 
 <hr>
 
