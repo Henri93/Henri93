@@ -98,7 +98,7 @@ ARKit, Pytorch, Jetpack Compose, Oculus VR
 
 ## 📚 Reading
 
-![Reading Progress](https://n3bdyqfkt5oihc43ohqbqy2thy0vpckb.lambda-url.us-east-1.on.aws/card/hgarant?limit=10)
+![Reading Progress](https://api.null-space.xyz/card/hgarant?limit=10)
 
 <hr>
 
